@@ -12,4 +12,8 @@ However ,it dont influence the evolution analysis and the basci function analysi
 
 St.LG.zip is the gff for the genome.
 
+The release is the genome fasta of the dimorphic flower.
 
+I raraly use github because of the chinese firewall.
+
+The update and notices maybe is Very delayed
