@@ -9,3 +9,7 @@ This genome just use for early analysis, dont  present the final genome.
 There are some mistake about gene annonation.
 
 However ,it dont influence the evolution analysis and the basci function analysis.
+
+St.LG.zip is the gff for the genome.
+
+
